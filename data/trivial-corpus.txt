@@ -1,0 +1,25 @@
+Jack eats apples. 
+Mary eats apples.
+Apples are fruits. 
+People eat fruits.
+a causes b. 
+b causes c.
+c causes d. 
+d causes fruits.
+a becauses b. 
+b becauses c.
+c becauses d. 
+d becauses fruits.
+Jack defeats apples. 
+Mary defeats apples.
+Apples bare fruits. 
+People defeats fruits.
+I am.
+He is.
+She is.
+They are.
+We are.
+It is.
+There is.
+Noone is.
+Nowhere is.
